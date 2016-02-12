@@ -26,4 +26,8 @@ The purpose of this list is to outline some of the qualities and features of som
 ## Support
 - Sample code is featured on github in 1 or 2 commonly used languages (python, ruby, node, php)
 - Have some sort of experiment tool so that you can test the relevance/quality of data before singing up for keys
-![Image] (/images/DoLScreenshot.png)
+
+An example of great support found on [this developer page] on the U.S. Department of Labor's website.  
+![Department of Labor Developer Page Screenshot] (/images/DoLScreenshot.png "Department of Labor Developer Page")
+
+[this developer page]: http://developer.dol.gov/
