@@ -1,5 +1,5 @@
 # Best Practices
-The purpose of this list is to outline some of the qualities and features of some of the best /developer pages in the US government's open data sphere. 
+The purpose of this list is to outline some of the qualities and features of some of the best /developer pages in the US government's open data sphere.
 
 ## Brevity
 - Not too wordy
@@ -26,3 +26,4 @@ The purpose of this list is to outline some of the qualities and features of som
 ## Support
 - Sample code is featured on github in 1 or 2 commonly used languages (python, ruby, node, php)
 - Have some sort of experiment tool so that you can test the relevance/quality of data before singing up for keys
+![Image] (/images/DoLScreenshot.png)
