@@ -1,13 +1,13 @@
 # Best Practices
 The purpose of this list is to outline some of the qualities and features of some of the best /developer pages in the US government's open data sphere.
 
-## Brevity
-- Not too wordy
-- Use visuals to communicate and help user navigate
-- Have only content relevant to developers
+## Focus
+- Uses clear and concise language
+- Uses visuals to communicate and help user navigate
+- Has only content relevant to developers
 
 ## Language
-- Simple up-to-date language that avoids jargon
+- Simple, up-to-date language that avoids jargon
 
 ## Navigability
 - Minimize number of clicks it takes to get the developer to the page she is looking for
